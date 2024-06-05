@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_grey"
+    tools:context=".MainActivity">
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="461dp"
+       android:src="@drawable/thecheezery"
+       android:scaleType="fitXY"
+       />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_marginTop="25dp"
+        android:textColor="@color/dusty_white"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/welcome_text"
+        android:textAlignment="center"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@color/dusty_white"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="italic"
+        android:text="@string/welcome_description"
+        android:textAlignment="center"
+        android:padding="15dp"
+        />
+
+    <Button
+        android:layout_width="219dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_start"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:id="@+id/button_get_started"
+        />
+
+
+
+
+
+</LinearLayout>
