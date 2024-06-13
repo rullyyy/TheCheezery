@@ -3,6 +3,6 @@
     <dimen name="input_margin">15dp</dimen>
     <dimen name="menu_button_padding">20dp</dimen>
     <dimen name="menu_button_margin">2dp</dimen>
-    <dimen name="menu_button_text">15dp</dimen>
+    <dimen name="menu_button_text">15sp</dimen>
     <dimen name="menu_button_padding_v">15dp</dimen>
 </resources>

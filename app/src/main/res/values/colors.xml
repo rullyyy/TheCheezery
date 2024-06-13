@@ -2,12 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="purple_grey">#644b5e</color>
     <color name="dusty_white">#ebebeb</color>
     <color name="very_purple">#97397D</color>
-    <color name="less_purple">#B2108D</color>
-    <color name="pinky">#C50390</color>
-    <color name="last_pink">#EF029D</color>
-    <color name="purple_grey">#644B5E</color>
-    <color name="accent_pink">#FE2BD0</color>
-
+    <color name="less_purple">#b2108D</color>
+    <color name="pinky">#c50390</color>
+    <color name="last_pink">#ef029d</color>
+    <color name="accent_pink">#fe2bd0</color>
+    <color name="name_product">#B60089</color>
+    <color name="desc_product">#262525</color>
+    <color name="price_product">#9E2E81</color>
 </resources>
